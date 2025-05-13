@@ -35,7 +35,7 @@ return {
               },
             },
             env = {
-              api_key = 'AIzaSyBe6JZHt6iOvKQtuEUmueEZr3B6VQzAO_s',
+              api_key = '',
             },
           })
         end,
